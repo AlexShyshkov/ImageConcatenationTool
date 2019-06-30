@@ -10,10 +10,13 @@ main.js            |Script, what describes application functionality
 style.css          |Application style file
 images             |Folder with application background image and screenshots
 
-### Built with
+----------------------------------------
+Built with
 ----------------------------------------
 Sublime text - text editor for code, markup. Running in the MS Windows enviroment.
+
 ----------------------------------------
+
 ### Functionality
 Interface contains two <input type="file"/> elements and one <canvas> element.
 ![alt interface](https://github.com/AlexShyshkov/ImageConcatenationTool/blob/master/images/screenshots/1.png)
